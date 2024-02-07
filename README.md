@@ -4,12 +4,18 @@ The newest form of discord nuke bot today!
 
 #How to use:
 
-DOWNLOAD
+DOWNLOAD ZIP
 
-download the .EXE
+EXTRACT ALL
 
-OPEN THE FILE
+RUN THE !install_libs
+
+RUN THE .EXE
 
 INSERT YOUR BOT TOKEN
 
-NUKE SERVERS AS YOU PLEASE
+CHOOSE YOUR DESIRED SERVER
+
+CHOOSE 1 CHOICE (there are 20)
+
+LET IT RUN
